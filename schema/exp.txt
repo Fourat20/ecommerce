@@ -1,0 +1,16 @@
+To check the static -- try to cummunicate with header token to get the Exact user 
+
+
+user x visited the game number 3
+user y visited the offer number 6 at the timing of 3 or 6
+statistic :: user_id , 'offer| game', offer_id, game_id , at created_time 
+
+===================================
+
+a user watch a promo video in 24/ if watch the full video one point added to his account 
+
+User_score : user_id , score 
+
+===================================
+
+The admin add an offer and associate a provider to that offer 
